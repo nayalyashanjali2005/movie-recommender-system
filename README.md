@@ -6,3 +6,6 @@ A content-based movie recommender system developed using Python and Streamlit. T
 - Recommends similar movies using precomputed content similarity
 - Displays posters using TMDB API
 - Interactive web interface built with Streamlit
+
+The movie data used in this project was sourced from Kaggle:
+(https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
